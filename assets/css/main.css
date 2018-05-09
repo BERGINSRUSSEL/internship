@@ -181,7 +181,6 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 10em 0 4.75em 0 ;
 	height: 80vh;
 	color: #ffffff;
-	
 }
 
 
@@ -1637,7 +1636,7 @@ textarea#message {
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: url("../../images/bannervdo.jpg");
+  background-image:url(../images/02_element_header.jpg)
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
