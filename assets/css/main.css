@@ -515,8 +515,8 @@ h3 {
 }
 
 .section-details {
-	padding-top: 70px;
-	padding-bottom: 60px;
+	padding-top: 10px;
+	padding-bottom: 20px;
 }
 
 .section-details p {
@@ -1136,7 +1136,7 @@ button[disabled], html input[disabled] {
 }
 
 section.table {
-	margin-top: 85px;
+	margin-top: 10px;
 }
 
 section.table h1 {
